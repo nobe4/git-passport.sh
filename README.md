@@ -32,4 +32,4 @@ If you had tested it on your machine and it worked you can let me know with an i
 Issues and PR are welcome !
 
 # License 
-MIT, see the [Lisense](https://github.com/nobe4/git-passport.sh/blob/master/LICENSE).
+MIT, see the [License](https://github.com/nobe4/git-passport.sh/blob/master/LICENSE).
